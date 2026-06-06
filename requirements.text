@@ -1,0 +1,9 @@
+firstapi
+scikitlearn
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+git config --global user.name "knkomal-hue"
+git config --global user.email "knkomal@gmail.com"
